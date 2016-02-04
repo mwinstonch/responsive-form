@@ -1,0 +1,58 @@
+html {
+	background: #5FA2DA;
+}
+body {
+  font-size: 0;
+  margin: 0 auto;
+  text-align: center;
+}
+
+div input {
+	background: #5FA2DA;
+}
+p {
+	color: white;
+	font-size: 17px;
+	padding-bottom: 5px;
+	text-align: left;
+}
+div	{
+	display: inline-block;
+	text-align: center;
+	vertical-align: top;
+	width: 28%;
+	margin-top: 10px;
+	margin-right: 22px;
+}
+
+input {
+	display: block;
+	color: #B3B3B4;
+	margin-bottom: 15px;
+	width: 100%;
+	height: 32px;
+	border: 3px solid #fff;
+}
+input:focus {
+	border-color: #2E699C;
+}
+.big-box {
+	text-align: left;
+	display: block;
+	color: #B3B3B4;
+	margin-bottom: 15px;
+	width: 100%;
+	height: 182px;
+	border-color: #fff;
+}
+#left {
+}
+
+#middle {
+
+} 
+
+#right {
+	
+	
+} 
